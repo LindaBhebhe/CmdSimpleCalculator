@@ -15,7 +15,7 @@ System.out.println("The sum is " + (num1 + num2));
 
 if(symbol.equals("subtract")){
   System.out.println();
-  System.out.println(" ***********Simple calculator********");
+  System.out.println(" *********Simple calculator********");
 System.out.println("The difference is " + (num1 - num2));
    }
 
