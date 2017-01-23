@@ -24,5 +24,10 @@ if(symbol.equals("multiply")){
   System.out.println(" ***********Simple calculator********");
 System.out.println("The product is " + (num1 * num2));
    }
+   if(symbol.equals("divide")){
+  System.out.println();
+  System.out.println(" ***********Simple calculator********");
+System.out.println("The quotient is " + (num1 / num2));
+   }
   }
 }
